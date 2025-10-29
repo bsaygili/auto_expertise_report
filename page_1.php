@@ -1,5 +1,4 @@
 <?php
-// === DİNAMİK VERİLER ===
 $workOrder     = "AE01J070";
 $plate         = "06CHJ966";
 $chassis       = "SJNFAAJ11U2934005";
