@@ -40,3 +40,6 @@ Modular, print-optimized vehicle inspection report templates built with PHP, HTM
 - Replace placeholder images (e.g. arac-sol.png) with your own vehicle diagrams.
 - Inject real-time data from your backend or database into the PHP variables.
 - Extend with new report types by duplicating and modifying existing templates.
+
+[expertise-report.webm](https://github.com/user-attachments/assets/5880c79d-f730-4864-9972-b56aeb633500)
+
