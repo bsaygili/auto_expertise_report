@@ -26,7 +26,7 @@ Modular, print-optimized vehicle inspection report templates built with PHP, HTM
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/vehicle-report-templates.git
+   git clone https://github.com/bsaygili/auto_expertise_report.git
    ```
 
    ```bash
